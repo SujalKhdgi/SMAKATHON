@@ -1,0 +1,116 @@
+0: Acne
+1: Allergic Rhinitis
+2: Alzheimer's Disease
+3: Anemia
+4: Anxiety Disorders
+5: Appendicitis
+6: Asthma
+7: Atherosclerosis
+8: Autism Spectrum Disorder (ASD)
+9: Bipolar Disorder
+10: Bladder Cancer
+11: Brain Tumor
+12: Breast Cancer
+13: Bronchitis
+14: Cataracts
+15: Cerebral Palsy
+16: Chickenpox
+17: Cholecystitis
+18: Cholera
+19: Chronic Kidney Disease
+20: Chronic Obstructive Pulmonary Disease (COPD)
+21: Chronic Obstructive Pulmonary...
+22: Cirrhosis
+23: Colorectal Cancer
+24: Common Cold
+25: Conjunctivitis (Pink Eye)
+26: Coronary Artery Disease
+27: Crohn's Disease
+28: Cystic Fibrosis
+29: Dementia
+30: Dengue Fever
+31: Depression
+32: Diabetes
+33: Diverticulitis
+34: Down Syndrome
+35: Eating Disorders (Anorexia,...
+36: Ebola Virus
+37: Eczema
+38: Endometriosis
+39: Epilepsy
+40: Esophageal Cancer
+41: Fibromyalgia
+42: Gastroenteritis
+43: Glaucoma
+44: Gout
+45: HIV/AIDS
+46: Hemophilia
+47: Hemorrhoids
+48: Hepatitis
+49: Hepatitis B
+50: Hyperglycemia
+51: Hypertension
+52: Hypertensive Heart Disease
+53: Hyperthyroidism
+54: Hypoglycemia
+55: Hypothyroidism
+56: Influenza
+57: Kidney Cancer
+58: Kidney Disease
+59: Klinefelter Syndrome
+60: Liver Cancer
+61: Liver Disease
+62: Lung Cancer
+63: Lyme Disease
+64: Lymphoma
+65: Malaria
+66: Marfan Syndrome
+67: Measles
+68: Melanoma
+69: Migraine
+70: Multiple Sclerosis
+71: Mumps
+72: Muscular Dystrophy
+73: Myocardial Infarction (Heart...
+74: Obsessive-Compulsive Disorde...
+75: Osteoarthritis
+76: Osteomyelitis
+77: Osteoporosis
+78: Otitis Media (Ear Infection)
+79: Ovarian Cancer
+80: Pancreatic Cancer
+81: Pancreatitis
+82: Parkinson's Disease
+83: Pneumocystis Pneumonia (PCP)
+84: Pneumonia
+85: Pneumothorax
+86: Polio
+87: Polycystic Ovary Syndrome (PCOS)
+88: Prader-Willi Syndrome
+89: Prostate Cancer
+90: Psoriasis
+91: Rabies
+92: Rheumatoid Arthritis
+93: Rubella
+94: Schizophrenia
+95: Scoliosis
+96: Sepsis
+97: Sickle Cell Anemia
+98: Sinusitis
+99: Sleep Apnea
+100: Spina Bifida
+101: Stroke
+102: Systemic Lupus Erythematosus...
+103: Testicular Cancer
+104: Tetanus
+105: Thyroid Cancer
+106: Tonsillitis
+107: Tourette Syndrome
+108: Tuberculosis
+109: Turner Syndrome
+110: Typhoid Fever
+111: Ulcerative Colitis
+112: Urinary Tract Infection
+113: Urinary Tract Infection (UTI)
+114: Williams Syndrome
+115: Zika Virus
